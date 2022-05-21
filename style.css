@@ -1,0 +1,24 @@
+html {
+  scroll-behavior: smooth;
+}
+
+section {
+  scroll-margin-top: 70px;
+}
+
+section#contact {
+  scroll-margin-top: 0;
+}
+
+.jumbotron {
+  padding-top: 6rem;
+  background-color: #e2edff;
+}
+
+.jumbotron img {
+  width: 200px;
+}
+
+#projects {
+  background-color: #e2edff;
+}
